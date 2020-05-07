@@ -14,4 +14,5 @@ The rules are simple. Your objective is to hit the button when the green LED is 
 <h2>How to configure your pi</h2>
 First, you will need to configure a breadboard like so.
 <img src="assets/circuit.jpg" height = "300px">
-<br>Secondly, you will need an empty micro sd card thats been formatted to the FAT32 file system, and has the contents of the boot folder on it, as well as kernel.img.
+<br>Secondly, you will need an empty micro sd card thats been formatted to the FAT32 file system, and has the contents of the boot folder on it.
+<br>Once this has been done, simply plug in the sd card, boot up the pi, and play!
