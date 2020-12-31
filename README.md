@@ -1,5 +1,5 @@
 # bareMetalChaser
-An LED based arcade-style game programmed for the pi 3+ in ARM assembly
+An LED based arcade-style game for an OS-less pi 3+ coded in ARM assembly
 
 <h2>How to play</h2>
 The rules are simple. Your objective is to hit the button when the green LED is lit.
